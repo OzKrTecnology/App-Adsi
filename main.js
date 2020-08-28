@@ -1,2 +1,2 @@
-var x=2;
+var precio=2;
 alert("Hola Mundo");
